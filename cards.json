@@ -1,0 +1,121 @@
+[{
+  "_id": {
+    "$oid": "61893df89a2829385c42550f"
+  },
+  "bizName": "Toyota Rav-4",
+  "bizDescription": "year: 2018",
+  "bizAddress": "Haifa",
+  "bizPhone": "0548362747",
+  "bizImage": "https://images.unsplash.com/photo-1617600346256-af3cd5b16a4d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+  "bizNumber": "193797",
+  "user_id": {
+    "$oid": "61893cc19a2829385c4254fa"
+  },
+  "__v": 0,
+  "bizPrice": "50000"
+},{
+  "_id": {
+    "$oid": "618ab3a89a2829385c425623"
+  },
+  "bizName": "Mercedes A class",
+  "bizDescription": "year: 2016\ngoo quality, no accedentes",
+  "bizAddress": "Tel Aviv",
+  "bizPhone": "0548362747",
+  "bizImage": "https://cdn.pixabay.com/photo/2018/05/20/23/36/mercedes-3417100_960_720.jpg",
+  "bizNumber": "436847",
+  "user_id": {
+    "$oid": "618ab3659a2829385c42561a"
+  },
+  "__v": 0,
+  "bizPrice": "120000"
+},{
+  "_id": {
+    "$oid": "618ab7299a2829385c425646"
+  },
+  "bizName": "BMW 3 seires",
+  "bizDescription": "good quality, year: 2018. \ncompany paint, with 60000 KM only",
+  "bizAddress": "Eilat56",
+  "bizPhone": "0548362747",
+  "bizImage": "https://res.cloudinary.com/dzqaui681/image/upload/v1638118164/my-car/jgliluynjbm1sbqtfwbq.jpg",
+  "bizNumber": "122522",
+  "user_id": {
+    "$oid": "618ab3659a2829385c42561a"
+  },
+  "__v": 0,
+  "bizPrice": "95800"
+},{
+  "_id": {
+    "$oid": "618d27099a2829385c4256b0"
+  },
+  "bizName": "Audi a3",
+  "bizDescription": "new car. no accidents.\ngood quality, with company paint.",
+  "bizAddress": "Yokinaam ",
+  "bizPhone": "0526667813",
+  "bizImage": "https://cdn.pixabay.com/photo/2015/01/19/13/51/car-604019_960_720.jpg",
+  "bizNumber": "529758",
+  "user_id": {
+    "$oid": "618d26759a2829385c425699"
+  },
+  "__v": 0,
+  "bizPrice": "180000"
+},{
+  "_id": {
+    "$oid": "61a21c00820fde2e44a6a1ab"
+  },
+  "bizName": "Mercedes G class",
+  "bizDescription": "year:2010\ngood quality ",
+  "bizAddress": "Tel Aviv",
+  "bizPhone": "0548362747",
+  "bizPrice": "850000",
+  "bizImage": "https://res.cloudinary.com/dzqaui681/image/upload/v1638013947/my-car/xmrwi9n5mb1igjaqelb6.jpg",
+  "bizNumber": "677056",
+  "user_id": {
+    "$oid": "618ab3659a2829385c42561a"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a222d1820fde2e44a6a1d7"
+  },
+  "bizName": "toyota CHR",
+  "bizDescription": "year: 2018",
+  "bizAddress": "Haifa",
+  "bizPhone": "0548362747",
+  "bizPrice": "80320",
+  "bizImage": "https://res.cloudinary.com/dzqaui681/image/upload/v1638015929/my-car/cnsmbwbkoymcc9wkgabz.jpg",
+  "bizNumber": "811619",
+  "user_id": {
+    "$oid": "618ab3659a2829385c42561a"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a3b315820fde2e44a6a25b"
+  },
+  "bizName": "BMW 4 series",
+  "bizDescription": "factory paint,\nno damage,\nall work",
+  "bizAddress": "Golan heights",
+  "bizPhone": "0548362747",
+  "bizPrice": "56242",
+  "bizImage": "https://res.cloudinary.com/dzqaui681/image/upload/v1638118164/my-car/jgliluynjbm1sbqtfwbq.jpg",
+  "bizNumber": "461839",
+  "user_id": {
+    "$oid": "61a3ae5a820fde2e44a6a21e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a3c228820fde2e44a6a2b3"
+  },
+  "bizName": "Ford Mustang",
+  "bizDescription": "great car",
+  "bizAddress": "Haifa5",
+  "bizPhone": "0548362747",
+  "bizPrice": "66200",
+  "bizImage": "https://res.cloudinary.com/dzqaui681/image/upload/v1638122021/my-car/bmu8vf6qgzuum1q6n3ie.jpg",
+  "bizNumber": "407358",
+  "user_id": {
+    "$oid": "61a3ae5a820fde2e44a6a21e"
+  },
+  "__v": 0
+}]
